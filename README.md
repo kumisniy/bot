@@ -1,8 +1,8 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
-  <h2>Uniswap, Pancakeswap, Raydium, Trader Joe, Sushiswap, Quickswap and more</h2>
-  <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
+  <h2>THIS NEW VERSION IS FOR AVAX ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
+  <p>Snipe New Tokens on all AVAX Dexes within 1 millisecond</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
