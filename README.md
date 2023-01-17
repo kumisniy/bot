@@ -55,6 +55,7 @@ Detailed changes for each release:
 #### • Version v2.3 [fixed minor bugs] - 4 weeks ago
 #### • Version v2.4 [minor changes] - 3 weeks ago
 #### • Version v3 [global changes, added new functions, log inside the terminal, CROSSCHAIN support] - 1 week ago
+#### • Version v3 [ADDED dark mode] - 2 days ago
 
 ## 🔑 License
 
