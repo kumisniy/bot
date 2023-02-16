@@ -4,7 +4,13 @@
   <h2>THIS NEW VERSION IS FOR AVAX ONLY, WORKING ON ADDING ALL MAIN CHAINS! UPDATE: WORKING ON A BUG FIX ATM</h2>
   <p>Snipe New Tokens on all AVAX Dexes within 1 millisecond</p>
   
-  [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
+</p>
+  
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
   
