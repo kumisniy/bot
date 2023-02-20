@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
+
+  <p>ARBITRUM Sniping Bot version: https://github.com/Blockys69/ARBITRUM-SNIPING-BOT-ASTRA-GUI</p>
+  <p>BSC Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</p>
+  <p>POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
+  <p>ETH sniping bot: https://github.com/Blockys69/Ethereum-Sniping-Bot-ETHX</p>
   
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
@@ -20,8 +25,9 @@
 ## 🚀 Features
 
 - 💌 Auto approve
-- ⏰ Buy early token gems with custom gas fee, slippage, amount. (DYOR)
+- ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
+- 💸 Contains Stop loss (Set SL% to 0 for no Stop loss, and TP% to 100% for no Trailing stop loss), Trailing Stop loss (for maximum profits) and more. Set TP% (Take profit %) to 120% for 20% gain, 100% is the base so 0x, 200% is 1x on your investment
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
