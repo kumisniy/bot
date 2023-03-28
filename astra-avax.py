@@ -281,7 +281,7 @@ def Ct(license,basic_auth):
 Aa=A0(AZ.encode()).decrypt(CA.encode()).decode()
 def CF():
 	B='Invalid token address!';global G;global W;global I;global AB;A('***** INITIALIZED ******');A('* Checking wallet address')
-	if C.isChecksumAddress(b.get()):G=C.to_checksum_address(b.get());A('Wallet address valid',O)
+	if C.is_checksum_address(b.get()):G=C.to_checksum_address(b.get());A('Wallet address valid',O)
 	else:Q.messagebox.showerror(Ar,'Invalid wallet address');A('Invalid wallet address!',J);return
 	A('* Checking private key characters (Must be 64 characters');W=A4.get()
 	if len(W)==64:A('Correct format for Private key',O)
